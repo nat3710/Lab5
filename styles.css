@@ -1,0 +1,9 @@
+.box{
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box {
+    width: 50 vw;
+    height: 50 vh; 
+}
